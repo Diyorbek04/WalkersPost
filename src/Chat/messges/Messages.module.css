@@ -1,0 +1,12 @@
+.item{
+    /*margin: 0 auto;*/
+    /*margin-right: 800rem;*/
+    width: 500px;
+    margin-left: 200px;
+}
+.item img{
+    margin: 0px;
+    padding: 0px;
+    width: 50px;
+
+}

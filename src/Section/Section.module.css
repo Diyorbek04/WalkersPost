@@ -1,0 +1,30 @@
+.Section{
+    margin: 0px;
+    padding: 0px;
+    background-color: goldenrod;
+    height: 700px;
+}
+.Section img{
+    width: 180px;
+    margin-left: 500px;
+}
+.figure{
+    margin: 0px;
+    padding: 0px;
+}
+.table{
+    float: right;
+    margin-right: 200px;
+    padding-top: 60px;
+}
+.chat{
+
+}
+.content{
+    margin-left:200px ;
+    padding-top: 80px;
+}
+/*.header{*/
+/*    background-color: #818181;*/
+/*    height: 50px;*/
+/*}*/

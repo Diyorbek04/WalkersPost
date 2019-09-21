@@ -1,0 +1,12 @@
+ .header{
+     background-color: #818181;
+     height: 50px;
+ }
+ .chat{
+      background-color: lightgreen;
+      height: 700px;
+  }
+ .content{
+     margin: 0 auto;
+     width: 500px;
+ }
